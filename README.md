@@ -37,5 +37,3 @@ This project is a simple text-based adventure game built using Java. It allows p
 4. Follow the story and view the result  
 
 ---
-
-## 🧪 Sample Output**
