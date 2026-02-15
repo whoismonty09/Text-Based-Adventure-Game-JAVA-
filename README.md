@@ -1,4 +1,4 @@
-**# 🧭 Text-Based Adventure Game (Java)
+# 🧭 Text-Based Adventure Game (Java)
 
 ## 📌 Project Overview
 This project is a simple text-based adventure game built using Java. It allows players to make choices that affect the storyline, demonstrating logical decision-making and object-oriented programming concepts.
