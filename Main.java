@@ -46,6 +46,7 @@ class Game {
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Text-Based Adventure Game developed by Monty");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter player name: ");
         String name = sc.nextLine();
