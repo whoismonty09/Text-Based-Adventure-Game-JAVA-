@@ -36,4 +36,24 @@ This project is a simple text-based adventure game built using Java. It allows p
 3. Choose a path (left or right)  
 4. Follow the story and view the result  
 
+------
+
+## 🎯 Learning Outcomes
+- Learned how to apply OOP concepts in a game project  
+- Improved logical thinking and control flow  
+- Practiced handling user input  
+- Built an interactive Java application  
+
 ---
+
+## 🔮 Future Enhancements
+- Add more story paths and characters  
+- Include inventory system  
+- Add scoring system  
+- Add save and load game feature  
+- Create GUI version using JavaFX  
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
